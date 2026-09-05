@@ -1,5 +1,10 @@
 # docx-automation-examples — демонстрационные документы формата docx-automation-spec
 
+> Часть набора [docx-automation](https://github.com/Artem891372/docx-automation):
+> [spec](https://github.com/Artem891372/docx-automation-spec) ·
+> [validator](https://github.com/Artem891372/docx-automation-validator) ·
+> [examples](https://github.com/Artem891372/docx-automation-examples)
+
 Анонимизированные примеры документов для формата
 [docx-automation-spec](https://github.com/Artem891372/docx-automation-spec). Каждый YAML-файл — самостоятельный документ,
 который можно собрать в DOCX движком, поддерживающим спецификацию, и который
